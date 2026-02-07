@@ -1,4 +1,3 @@
-//String aaaa = "";
 package com.javarush.caesar.core;
 
 /**
